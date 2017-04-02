@@ -40,6 +40,7 @@ gem 'paperclip'
 gem 'simple_form', '~> 3.2'
 gem 'bootstrap-sass', '~> 3.3'
 
+gem 'faker'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
@@ -51,7 +52,6 @@ group :development, :test do
   gem 'rspec-rails'
   gem 'rails-controller-testing'
   gem 'simplecov', :require => false, :group => :test
-  gem 'faker'
 end
 
 group :development do
