@@ -18,7 +18,7 @@
 @import "bootstrap";
 
 body {
-  background: linear-gradient(to bottom, #28343b 0%,#86aecc 100%);
+  background-color: #28343b;
   font-family: helvetica;
 }
 
@@ -44,24 +44,6 @@ body {
   border-right: 1px solid black;
   border-left: 1px solid black;
   border-bottom: 1px solid black;
-}
-
-.footer-container {
-  margin: 0 auto;
-  padding-top: 100px;
-  max-width: 60% !important;
-  background-color: white;
-  text-align: center;
-  border-right: 1px solid black;
-  border-left: 1px solid black;
-  border-bottom: 1px solid black;
-}
-
-.foot-note {
-  bottom-margin: 0;
-  font-size: 10px;
-  color: white;
-  background: linear-gradient(to bottom, rgba(89,106,114,1) 0%,rgba(90,100,115,1) 100%);
 }
 
 .title-container {
