@@ -18,3 +18,5 @@ Check it! RoundTable is a free online collection of board game ideas. Members ar
 
 This project allowed us to become more familiar with the Rails framework and using Continuous Integration in the workflow (Travis CI). It also gave us the chance to incorporate new gems we haven't used like devise and paperclip.
 
+
+Currently deployed at https://dbc-roundtable.herokuapp.com/
