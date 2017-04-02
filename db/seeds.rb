@@ -1,5 +1,3 @@
-require 'faker'
-
 Game.destroy_all
 User.destroy_all
 Revision.destroy_all
