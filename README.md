@@ -7,8 +7,10 @@ Team:
 * Patrick James Hoban - patrickjameshoban
 * Pavan Sarguru - pksarguru
 
+Mock Client Project
 
-# Idea
+
+# Client Idea
 
 Don't you wish there was a place you could go to share your great boardgame ideas and help your friends with their boardgame ideas?
 
