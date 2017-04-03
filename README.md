@@ -1,14 +1,13 @@
 # RoundTable
 
+Mock Client Project, DBC Phase 3 - Week 1
+
 Team:
 
 * Chris Santos - csan21
 * Joe Harrow - jwharrow
 * Patrick James Hoban - patrickjameshoban
 * Pavan Sarguru - pksarguru
-
-Mock Client Project
-
 
 # Client Idea
 
